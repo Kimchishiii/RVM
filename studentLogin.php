@@ -120,7 +120,7 @@
                 background-color: #0bd830;
                 background-position: right;
                 font-size: 16px;
-                color: black;
+                color: gray;
             }
 
             .logo {
